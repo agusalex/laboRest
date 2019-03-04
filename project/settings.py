@@ -23,7 +23,6 @@ AUTH_USER_MODEL = "restApi.CustomUser"
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '@)iv7sr+ib$e$@msu+@!&v#vukwlxvrvnoi@a7o1tg4cj=r4&6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
